@@ -1,3 +1,5 @@
+@file:Suppress("DEPRECATION")
+
 fun main() {
     // Bir metin verisi oluştur
     val text: CharSequence = "Merhaba, dünya!"
